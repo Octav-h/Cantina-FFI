@@ -1,4 +1,4 @@
-package Lab3;
+package lab3;
 
 public class Rulou extends Produs {
     private final NivelPicanterie picanterie;

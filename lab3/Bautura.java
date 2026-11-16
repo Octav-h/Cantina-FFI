@@ -1,4 +1,4 @@
-package Lab3;
+package lab3;
 
 public class Bautura extends Produs {
     private final boolean esteAlcoolica;

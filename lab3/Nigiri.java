@@ -1,4 +1,4 @@
-package Lab3;
+package lab3;
 
 public class Nigiri extends Produs {
     private final String tipPeste;
